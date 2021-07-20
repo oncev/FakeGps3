@@ -1,4 +1,5 @@
 #FakeGPS
+#release
 
 [中文Readme](https://github.com/xiangtailiang/FakeGPS/blob/master/README_CN.md)
 
